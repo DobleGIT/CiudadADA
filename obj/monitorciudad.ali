@@ -1,0 +1,52 @@
+V "GNAT Lib v2011"
+A -gnatA
+A -mtune=generic
+A -march=pentiumpro
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnvnnnnvnnnnnnnnnnnnnn
+
+U monitorciudad%b	monitorciudad.adb	eba18e7b NE OO PK IL
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+
+U monitorciudad%s	monitorciudad.ads	589326d8 EE NE OO PK IL
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-except.ads		20110428140900 4759ecee
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-c.ads		20110428140906 5421119b
+D i-cstrin.ads		20110428140906 341d0ddf
+D monitorciudad.ads	20210102215306 589326d8
+D monitorciudad.adb	20210102215302 b332a8a3
+D system.ads		20110428140910 bc164b96
+D s-atacco.ads		20110428140906 1dc856ad
+D s-exctab.ads		20110428140906 66e51330
+D s-multip.ads		20110428140908 38ac9f73
+D s-osinte.ads		20110428140908 ecf1fbfd
+D s-parame.ads		20110428140908 03aa3b01
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stausa.ads		20110428140908 017a0a05
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-tasinf.ads		20110428140908 859198ad
+D s-taspri.ads		20110428140908 196697f7
+D s-taskin.ads		20110428140908 b2eaee08
+D s-taprob.ads		20110428140908 502249e3
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-win32.ads		20110428140910 07238fa2
+X 7 monitorciudad.ads
+1K9*MonitorCiudad 9l5 9e18 8|1b14 22l5 22t18
+2W19*ConsumoCiudad 8l8 8e21 8|2b19 21l8 21t21
+3U14 iniciar 3>22 8|3b17 6l11 6t18
+3i22 consumoInicial{integer} 8|3b25 5r19
+4U17 asignar 4>25 8|8b17 12l11 12t18
+4i25 variacion{integer} 8|8b25 10r27
+5V16 consultarConsumo{integer} 8|14b16 17l11 17t27
+7i4 consumo{integer} 8|5r10 10r10 10r19 16r17
+

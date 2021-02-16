@@ -1,0 +1,89 @@
+V "GNAT Lib v2011"
+A -gnatA
+A -mtune=generic
+A -march=pentiumpro
+P SS ZX
+R nnnnnnnnnvnnnnnnnnnnnnnvnvnnnnnnnnnnvnnvnnnnvnnnnnnnnnnnnnnnnvnnnnvnnnnnnnnnnnv1+nn
+
+U sensorlectorp%b	sensorlectorp.adb	607645a2 NE OO PK IL
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+
+U sensorlectorp%s	sensorlectorp.ads	0506ab29 EE NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.timing_events%s  a-rttiev.adb	a-rttiev.ali
+W monitorplanta%s	monitorplanta.adb	monitorplanta.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-calend.ads		20110428140858 343c83dd
+D a-caldel.ads		20110428140858 9f20b83d
+D a-except.ads		20110428140900 4759ecee
+D a-finali.ads		20110428140900 b333d305
+D a-fihema.ads		20110428140900 1940728a
+D a-ioexce.ads		20110428140900 8b9de6cd
+D a-reatim.ads		20110428140902 63f07669
+D a-rttiev.ads		20110428140902 22f35a33
+D a-stream.ads		20110428140902 2ca4ee37
+D a-tags.ads		20110428140902 7b33f560
+D a-textio.ads		20110428140902 386df5d4
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-c.ads		20110428140906 5421119b
+D i-cstrin.ads		20110428140906 341d0ddf
+D i-cstrea.ads		20110428140906 1bd72c32
+D monitorplanta.ads	20210102224820 c71f331e
+D sensorlectorp.ads	20210109090720 c6cc92a4
+D sensorlectorp.adb	20210104154716 a6bad706
+D system.ads		20110428140910 bc164b96
+D s-atacco.ads		20110428140906 1dc856ad
+D s-crtl.ads		20110428140906 ac77b159
+D s-exctab.ads		20110428140906 66e51330
+D s-ficobl.ads		20110428140906 443b9d66
+D s-finroo.ads		20110428140906 2dd85ce2
+D s-multip.ads		20110428140908 38ac9f73
+D s-osinte.ads		20110428140908 ecf1fbfd
+D s-parame.ads		20110428140908 03aa3b01
+D s-pooglo.ads		20110428140908 542f33d0
+D s-secsta.ads		20110428140908 eea35a36
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stausa.ads		20110428140908 017a0a05
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-stopoo.ads		20110428140908 5c51faf9
+D s-tasinf.ads		20110428140908 859198ad
+D s-taspri.ads		20110428140908 196697f7
+D s-taprop.ads		20110428140908 07f79e46
+D s-taskin.ads		20110428140908 b2eaee08
+D s-taprob.ads		20110428140908 502249e3
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-wchcon.ads		20110428140910 bfeb2e3d
+D s-win32.ads		20110428140910 07238fa2
+D text_io.ads		20110428140910 45d626c9
+X 1 ada.ads
+16K9*Ada 19e8 19|1r6 2r5 3r6 4r5
+X 8 a-reatim.ads
+39K13*Real_Time 139e18 19|1w10 2r9 3r10 4r9
+X 9 a-rttiev.ads
+38K23*Timing_Events 81e32 19|3w20
+X 18 monitorplanta.ads
+1K9*MonitorPlanta 10e18 19|6w6 7r5
+2W19*MonitorProduccionPlanta 9e31 19|10r48
+3V16 consultarProduccion{integer} 20|7s25
+X 19 sensorlectorp.ads
+8K9*SensorLectorP 17l5 17e18 20|1b14 13l5 13t18
+10W19*SensorLector 10d32 16l8 16e20 20|2b19 12l8 12t20
+12U17 leer 12<23 20|4b17 10l11 10t15
+12i23 dato{integer} 20|4b23 7m10
+14i7 leyendo{integer}
+X 48 text_io.ads
+24K9*Text_IO=24:29 19|5w6
+

@@ -1,0 +1,2 @@
+tareaplanta.adb:23:06: left hand of assignment must not be limited type
+tareaplanta.adb:64:38: missing argument for parameter "dato" in call to "Leer" declared at sensorlectorp.ads:12

@@ -1,0 +1,260 @@
+C:\Users\jaime\OneDrive\Escritorio\ADA\bueno\proyectoADA\obj\main.exe
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 35 PRODUCCION: 45
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 35 PRODUCCION: 45
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 35 PRODUCCION: 45
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 34 PRODUCCION: 42
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 34 PRODUCCION: 42
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 34 PRODUCCION: 42
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 34 PRODUCCION: 39
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 33 PRODUCCION: 39
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 33 PRODUCCION: 39
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 33 PRODUCCION: 36
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 32 PRODUCCION: 36
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 32 PRODUCCION: 36
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 32 PRODUCCION: 33
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 32 PRODUCCION: 33
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 29 PRODUCCION: 33
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 29 PRODUCCION: 32
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 29 PRODUCCION: 32
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 30
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 29
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 29
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 27
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 26
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 26
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 24
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 28 PRODUCCION: 26
+He incrementado la produccion de la planta 1
+He incrementado la produccion de la planta 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 28 PRODUCCION: 26
+He incrementado la produccion de la planta 1
+He incrementado la produccion de la planta 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 28 PRODUCCION: 26
+He incrementado la produccion de la planta 1
+He incrementado la produccion de la planta 2
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 28
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 28
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 28
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 25 PRODUCCION: 25
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 25
+ESTABLE CONSUMO: 26 PRODUCCION: 25
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 25
+ESTABLE CONSUMO: 26 PRODUCCION: 25
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 25
+ESTABLE CONSUMO: 26 PRODUCCION: 25
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 26 PRODUCCION: 26
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 26
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 26
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 26
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 26 PRODUCCION: 23
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 25 PRODUCCION: 25
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 25 PRODUCCION: 22
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 25 PRODUCCION: 22
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 25 PRODUCCION: 22
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 25 PRODUCCION: 25
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 24 PRODUCCION: 25
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 24 PRODUCCION: 25
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 24 PRODUCCION: 25
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 27 PRODUCCION: 24
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 27 PRODUCCION: 24
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 27 PRODUCCION: 24
+He incrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 27 PRODUCCION: 27
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 27
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 27
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 26 PRODUCCION: 27
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 25 PRODUCCION: 26
+He decrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ESTABLE CONSUMO: 25 PRODUCCION: 25
+He mantenido la produccion de las 3 plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 22 PRODUCCION: 25
+He decrementado las tres plantas
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 22
+ESTABLE CONSUMO: 23 PRODUCCION: 22
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 22
+ESTABLE CONSUMO: 23 PRODUCCION: 22
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO SOBRECARGA!! CONSUMO: 23 PRODUCCION: 22
+ESTABLE CONSUMO: 23 PRODUCCION: 22
+He incrementado la produccion de la planta 3
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+PELIGRO BAJADA!! CONSUMO: 25 PRODUCCION: 23
+He incrementado la produccion de la planta 1
+He incrementado la produccion de la planta 2
